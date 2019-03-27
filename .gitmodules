@@ -13,3 +13,6 @@
 [submodule "hall_of_faces"]
 	path = hall_of_faces
 	url = https://github.com/the-house-of-black-and-white/hall-of-faces.git
+[submodule "tensorflow_face_detection"]
+	path = tensorflow_face_detection
+	url = https://github.com/racinmat/tensorflow-face-detection.git

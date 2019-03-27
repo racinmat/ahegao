@@ -1,0 +1,18 @@
+[submodule "musically_tiktok_api_python"]
+	path = musically_tiktok_api_python
+	url = https://github.com/racinmat/musically-tiktok-api-python.git
+[submodule "Emotion_detection"]
+	path = Emotion_detection
+	url = https://github.com/racinmat/Emotion-detection.git
+[submodule "Emotion"]
+	path = Emotion
+	url = https://github.com/racinmat/Emotion.git
+[submodule "face_classification"]
+	path = face_classification
+	url = https://github.com/racinmat/face_classification.git
+[submodule "tensorflow_face_detection"]
+	path = tensorflow_face_detection
+	url = https://github.com/racinmat/tensorflow-face-detection.git
+[submodule "hall_of_faces"]
+	path = hall_of_faces
+	url = https://github.com/the-house-of-black-and-white/hall-of-faces.git

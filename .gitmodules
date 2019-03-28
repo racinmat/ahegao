@@ -1,3 +1,6 @@
+[submodule "musically_tiktok_api_python"]
+	path = musically_tiktok_api_python
+	url = https://github.com/racinmat/musically-tiktok-api-python.git
 [submodule "Emotion_detection"]
 	path = Emotion_detection
 	url = https://github.com/racinmat/Emotion-detection.git
@@ -13,6 +16,3 @@
 [submodule "hall_of_faces"]
 	path = hall_of_faces
 	url = https://github.com/the-house-of-black-and-white/hall-of-faces.git
-[submodule "musically_tiktok_api_python"]
-	path = musically_tiktok_api_python
-	url = https://github.com/racinmat/musically-tiktok-api-python.git

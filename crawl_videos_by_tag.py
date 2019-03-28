@@ -90,6 +90,8 @@ def get_ahegao_hashtags():
         '1607073744304130': 'aheagoface',
         '1618165477879878': 'aheagao',
         '1615419720169494': 'aheagaoface',
+        '88209064': 'ahega',
+        '1610467474513926': 'ahegaface',
     }
 
 
